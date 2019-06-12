@@ -1,0 +1,14 @@
+/* blue #0072C2
+red #ED1727 */
+
+* {
+    font-family: "Verdana", Geneva, sans-serif;
+}
+
+footer {
+    color: #0072C2;
+}
+
+.fb-icon {
+    width: 48px;
+}
